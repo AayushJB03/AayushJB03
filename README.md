@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Aayush 👋
 
-<!--
-**AayushJB03/AayushJB03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Engineering student at VIT Pune  
+💻 Interested in AI Engineering, Full-Stack Development, and Agentic AI  
+🚀 Building projects that solve real-world problems and exploring new technologies.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Python, TypeScript, JavaScript, C++
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, FastAPI
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **AI/ML:** PyTorch, TensorFlow, scikit-learn, LLM APIs
+- **Tools:** Git, GitHub, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Featured Projects
+- **IT Asset Management System** — Full-stack asset tracking with AI integration.
+- **Story Vision** — AI-powered story and image generation.
+- **SmartMeals** — ML-based food demand forecasting.
+
+### 🌱 Currently Exploring
+Agentic AI, open-source AI models, cloud computing, and system design.
+
+### 📫 Connect With Me
+[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
+
+*Always learning, building, and experimenting.* 🚀
