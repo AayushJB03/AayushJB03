@@ -1,26 +1,11 @@
 # Hey, I'm Aayush 👋
 
-🎓 IT Engineering student at VIT Pune  
-💻 Interested in AI Engineering, Full-Stack Development, and Agentic AI  
-🚀 Building projects that solve real-world problems and exploring new technologies.
+IT Engineering student interested in AI and software development.
 
-### 🛠️ Tech Stack
-- **Languages:** Python, TypeScript, JavaScript, C++
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, FastAPI
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **AI/ML:** PyTorch, TensorFlow, scikit-learn, LLM APIs
-- **Tools:** Git, GitHub, Docker, AWS
+I'm building useful things with code and exploring how **AI agents** can solve real-world problems.
 
-### 🔭 Featured Projects
-- **IT Asset Management System** — Full-stack asset tracking with AI integration.
-- **Story Vision** — AI-powered story and image generation.
-- **SmartMeals** — ML-based food demand forecasting.
+- 🔭 **Currently building:** AI-powered applications and experimenting with LLMs and agentic workflows
+- 🌱 **Exploring:** AI agents, open-source AI, and developer tools
+- 💡 **Interested in:** Turning ideas into practical software
 
-### 🌱 Currently Exploring
-Agentic AI, open-source AI models, cloud computing, and system design.
-
-### 📫 Connect With Me
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
-
-*Always learning, building, and experimenting.* 🚀
+Always learning, building, and experimenting.
